@@ -17,7 +17,7 @@ function draw() {
   background(255);
   image(vid, windowWidth/2, windowHeight/2, 720, 405);
   ellipse(mouseX, mouseY, 10, 10);
-  text('IDENTITY SYSTEM', windowWidth/2-360, windowHeight/2+214);
+  text('IDENTITY SYSTEM', windowWidth/2-360, windowHeight/2+216);
 }
 
 function windowResized() {
